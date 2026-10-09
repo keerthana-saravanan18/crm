@@ -1,0 +1,2 @@
+-- Canonical CRM schema lives in supabase/migrations/20261009000000_crm_core.sql.
+-- Apply and track database changes only through versioned Supabase migrations.
